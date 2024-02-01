@@ -1,2 +1,2 @@
 Succesfully Implemented payment gateway Backend solution using stripe.
-to RUN Download Essential packages.
+To RUN Download Essential packages.
